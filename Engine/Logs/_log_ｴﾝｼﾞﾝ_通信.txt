@@ -1,9 +1,19 @@
-2015/12/22 18:28:26  > usi
-2015/12/22 18:30:03  > setoption name USI_Hash value 256
-2015/12/22 18:30:03  > setoption name 子 value true
-2015/12/22 18:30:03  > setoption name USI value 2
-2015/12/22 18:30:03  > setoption name 寅 value tiger
-2015/12/22 18:30:03  > setoption name 辰 value DRAGON
-2015/12/22 18:30:03  > setoption name 巳 value スネーク.html
-2015/12/22 18:30:03  > isready
-2015/12/22 18:30:03  > usinewgame
+2015/11/15 11:17:09  > usi
+2015/11/15 11:17:09<   option name 子 type check default true
+2015/11/15 11:17:09<   option name USI type spin default 2 min 1 max 13
+2015/11/15 11:17:10<   option name 寅 type combo default tiger var マウス var うし var tiger var ウー var 龍 var へび var 馬 var ひつじ var モンキー var バード var ドッグ var うりぼー
+2015/11/15 11:17:10<   option name 卯 type button default うさぎ
+2015/11/15 11:17:10<   option name 辰 type string default DRAGON
+2015/11/15 11:17:10<   option name 巳 type filename default スネーク.html
+2015/11/15 11:17:10<   id name きふわらべ
+2015/11/15 11:17:10<   id author TAKAHASHI Satoshi
+2015/11/15 11:17:10<   usiok
+2015/11/15 11:17:10  > setoption name USI_Ponder value false
+2015/11/15 11:17:10  > setoption name USI_Hash value 256
+2015/11/15 11:17:10  > setoption name 子 value true
+2015/11/15 11:17:10  > setoption name USI value 2
+2015/11/15 11:17:10  > setoption name 寅 value tiger
+2015/11/15 11:17:10  > setoption name 辰 value DRAGON
+2015/11/15 11:17:10  > setoption name 巳 value スネーク.html
+2015/11/15 11:17:10  > isready
+2015/11/15 11:17:10<   readyok
