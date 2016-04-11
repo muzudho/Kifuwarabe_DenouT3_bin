@@ -1,0 +1,39 @@
+2015/12/22 18:30:05  > position startpos moves 2g2f
+2015/12/22 18:30:05  > go btime 599000 wtime 600000 byoyomi 10000
+2015/12/22 18:30:15  > position startpos moves 2g2f 3c3d 2f2e
+2015/12/22 18:30:15  > go btime 599000 wtime 591000 byoyomi 10000
+2015/12/22 18:30:26  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f
+2015/12/22 18:30:26  > go btime 599000 wtime 582000 byoyomi 10000
+2015/12/22 18:30:56  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h
+2015/12/22 18:30:56  > go btime 581000 wtime 571000 byoyomi 10000
+2015/12/22 18:31:40  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h
+2015/12/22 18:31:40  > go btime 555000 wtime 554000 byoyomi 10000
+2015/12/22 18:32:21  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h 7a7b B*8b
+2015/12/22 18:32:21  > go btime 528000 wtime 541000 byoyomi 10000
+2015/12/22 18:33:24  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h 7a7b B*8b B*9e 6h7h
+2015/12/22 18:33:24  > go btime 489000 wtime 519000 byoyomi 10000
+2015/12/22 18:33:55  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h 7a7b B*8b B*9e 6h7h 9a9b 8b9a+
+2015/12/22 18:33:55  > go btime 469000 wtime 509000 byoyomi 10000
+2015/12/22 18:34:24  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h 7a7b B*8b B*9e 6h7h 9a9b 8b9a+ 7c7d 4i5h
+2015/12/22 18:34:24  > go btime 448000 wtime 502000 byoyomi 10000
+2015/12/22 18:35:11  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h 7a7b B*8b B*9e 6h7h 9a9b 8b9a+ 7c7d 4i5h 8a7c 3i4h
+2015/12/22 18:35:11  > go btime 410000 wtime 493000 byoyomi 10000
+2015/12/22 18:35:29  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h 7a7b B*8b B*9e 6h7h 9a9b 8b9a+ 7c7d 4i5h 8a7c 3i4h 2c2d 2e2d
+2015/12/22 18:35:29  > go btime 399000 wtime 487000 byoyomi 10000
+2015/12/22 18:36:01  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h 7a7b B*8b B*9e 6h7h 9a9b 8b9a+ 7c7d 4i5h 8a7c 3i4h 2c2d 2e2d 5a5b 2d2c+
+2015/12/22 18:36:01  > go btime 374000 wtime 481000 byoyomi 10000
+2015/12/22 18:36:23  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h 7a7b B*8b B*9e 6h7h 9a9b 8b9a+ 7c7d 4i5h 8a7c 3i4h 2c2d 2e2d 5a5b 2d2c+ 4c4d P*2b
+2015/12/22 18:36:23  > go btime 360000 wtime 474000 byoyomi 10000
+2015/12/22 18:36:42  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h 7a7b B*8b B*9e 6h7h 9a9b 8b9a+ 7c7d 4i5h 8a7c 3i4h 2c2d 2e2d 5a5b 2d2c+ 4c4d P*2b 5b4c 2b2a+
+2015/12/22 18:36:42  > go btime 349000 wtime 466000 byoyomi 10000
+2015/12/22 18:37:20  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h 7a7b B*8b B*9e 6h7h 9a9b 8b9a+ 7c7d 4i5h 8a7c 3i4h 2c2d 2e2d 5a5b 2d2c+ 4c4d P*2b 5b4c 2b2a+ 4c5d 2c3c
+2015/12/22 18:37:20  > go btime 334000 wtime 443000 byoyomi 10000
+2015/12/22 18:38:17  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h 7a7b B*8b B*9e 6h7h 9a9b 8b9a+ 7c7d 4i5h 8a7c 3i4h 2c2d 2e2d 5a5b 2d2c+ 4c4d P*2b 5b4c 2b2a+ 4c5d 2c3c 5d6d 2a3a
+2015/12/22 18:38:17  > go btime 307000 wtime 414000 byoyomi 10000
+2015/12/22 18:39:05  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h 7a7b B*8b B*9e 6h7h 9a9b 8b9a+ 7c7d 4i5h 8a7c 3i4h 2c2d 2e2d 5a5b 2d2c+ 4c4d P*2b 5b4c 2b2a+ 4c5d 2c3c 5d6d 2a3a 6d5e 3a4a
+2015/12/22 18:39:05  > go btime 290000 wtime 384000 byoyomi 10000
+2015/12/22 18:39:30  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h 7a7b B*8b B*9e 6h7h 9a9b 8b9a+ 7c7d 4i5h 8a7c 3i4h 2c2d 2e2d 5a5b 2d2c+ 4c4d P*2b 5b4c 2b2a+ 4c5d 2c3c 5d6d 2a3a 6d5e 3a4a 4b4a S*5f
+2015/12/22 18:39:30  > go btime 290000 wtime 361000 byoyomi 10000
+2015/12/22 18:39:35  > position startpos moves 2g2f 3c3d 2f2e 2b3c 7g7f 3c8h 7i8h 8b4b 5i6h 7a7b B*8b B*9e 6h7h 9a9b 8b9a+ 7c7d 4i5h 8a7c 3i4h 2c2d 2e2d 5a5b 2d2c+ 4c4d P*2b 5b4c 2b2a+ 4c5d 2c3c 5d6d 2a3a 6d5e 3a4a 4b4a S*5f 5e6d G*5e
+2015/12/22 18:39:35  > go btime 290000 wtime 357000 byoyomi 10000
+2015/12/22 18:39:35  > gameover lose

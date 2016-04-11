@@ -1,0 +1,9 @@
+2015/12/22 18:28:26  > usi
+2015/12/22 18:30:03  > setoption name USI_Hash value 256
+2015/12/22 18:30:03  > setoption name 子 value true
+2015/12/22 18:30:03  > setoption name USI value 2
+2015/12/22 18:30:03  > setoption name 寅 value tiger
+2015/12/22 18:30:03  > setoption name 辰 value DRAGON
+2015/12/22 18:30:03  > setoption name 巳 value スネーク.html
+2015/12/22 18:30:03  > isready
+2015/12/22 18:30:03  > usinewgame
